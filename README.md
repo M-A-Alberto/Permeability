@@ -1,0 +1,1 @@
+This code is used to calculate the permeability of nanoparticles thorugh both a linear fit or thorugh the overall change in the fluorescence intensity after a certain period of time. The image analysis includes tracking of the channels in case the device moved thorugh the image acquisition
